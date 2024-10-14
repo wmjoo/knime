@@ -4,3 +4,4 @@
 
 ![image](https://github.com/user-attachments/assets/63b93c06-ed92-4848-b79c-9351025b349d)
 
+https://docs.knime.com/2023-12/analytics_platform_installation_guide/index.html#_adding_local_update_sites
