@@ -2,7 +2,7 @@
 https://download.knime.org/analytics-platform/win/knime_5.2.5.win32.win32.x86_64.zip
 
 # KNIME 5.2.5(or 5.2) 버전 extension zip(5.2.5)
-![image](https://github.com/user-attachments/assets/0f469fe1-146b-4647-93db-bc4f50b08f77)
+![image](https://github.com/user-attachments/assets/789f68d6-a4be-4439-bb14-68160e151392)
 
 ## 다음 링크에서 ZIP 파일 3개를 다운받아주세요
 1. [가장 대용량 - 시간이 오래 걸리니 미리 준비해주세요] https://update.knime.org/analytics-platform/UpdateSite_latest52.zip
