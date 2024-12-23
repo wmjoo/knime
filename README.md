@@ -5,10 +5,9 @@ https://download.knime.org/analytics-platform/win/knime_5.2.5.win32.win32.x86_64
 ![image](https://github.com/user-attachments/assets/789f68d6-a4be-4439-bb14-68160e151392)
 
 ## 다음 링크에서 ZIP 파일 3개를 다운받아주세요
-1. [가장 대용량 - 시간이 오래 걸리니 미리 준비해주세요] https://update.knime.org/analytics-platform/5.2/org.knime.update.analytics-platform_5.2.5.zip
-2. https://update.knime.com/community-contributions/5.2/CommunityContributions_5.2_202410111142.zip
-3. https://update.knime.com/partner/5.2/com.knime.update.partner_5.2.0.zip
-![image](https://github.com/user-attachments/assets/98c44082-49fb-40ee-867f-0c70d8ec0c68)
+1. KNIME 제공의 공식 Extension (약 8.2GB) org.knime.update.analytics-platform_5.2.5.zip [가장 대용량 - 시간이 오래 걸리니 미리 준비해주세요] ~ https://update.knime.org/analytics-platform/5.2/org.knime.update.analytics-platform_5.2.5.zip
+2. KNIME 사용자들이 직접 만든 Extension (약 986MB) CommunityContributions_5.2_202409270300.zip ~ https://update.knime.com/community-contributions/5.2/CommunityContributions_5.2_202410111142.zip
+3. KNIME 공식 파트너 제공의 Extension (약 581MB) com.knime.update.partner_5.2.0.zip ~ https://update.knime.com/partner/5.2/com.knime.update.partner_5.2.0.zip
 
 (참고) ※ 출처 : https://docs.knime.com/2023-12/analytics_platform_installation_guide/index.html#_adding_local_update_sites
 
