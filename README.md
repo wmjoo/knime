@@ -1,8 +1,9 @@
 # 본 페이지 접속 방법
 1. QR 코드 스캔
+
   ![image](https://github.com/user-attachments/assets/d03a7a85-7f27-4ecb-aa61-eaabbf9d36bb)
 
-2. 아래 단축 url로 접속
+3. 아래 단축 url로 접속
   ***https://buly.kr/AljhLhq***
 
 # KNIME 5.2.5 버전 zip 파일 소프트웨어 다운로드
