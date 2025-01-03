@@ -3,8 +3,19 @@
 
   ![image](https://github.com/user-attachments/assets/d03a7a85-7f27-4ecb-aa61-eaabbf9d36bb)
 
-3. 아래 단축 url로 접속
+2. 아래 단축 url로 접속
   ***https://buly.kr/AljhLhq***
+
+<div>
+  <div style="display: inline-block; width: 45%; padding-right: 10px;">
+    첫 번째 열 내용
+  </div>
+  <div style="display: inline-block; width: 45%; padding-left: 10px;">
+    두 번째 열 내용
+  </div>
+</div>
+
+
 
 # KNIME 5.2.5 버전 zip 파일 소프트웨어 다운로드
 https://download.knime.org/analytics-platform/win/knime_5.2.5.win32.win32.x86_64.zip
