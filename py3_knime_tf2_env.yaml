@@ -1,0 +1,4 @@
+name: py3_knime_tf
+channels:
+  - defaults
+prefix: C:\ProgramData\miniconda3\envs\py3_knime_tf
