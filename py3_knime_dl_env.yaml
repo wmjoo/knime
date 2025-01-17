@@ -186,4 +186,4 @@ dependencies:
       - pyqtwebengine==5.12.1
       - python-graphviz==0.19.1
       - typing==3.7.4.3
-prefix: C:\Users\woomi\.conda\envs\py3_knime_dl
+prefix: C:\ProgramData\miniconda3\envs\py3_knime_dl
